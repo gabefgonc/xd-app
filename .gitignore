@@ -6,6 +6,7 @@ node_modules
 .env
 .env.*
 !.env.example
-pb_*
+/pb_data
+/pb_migrations
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
